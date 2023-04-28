@@ -1,0 +1,27 @@
+img{
+    height: 10rem;
+    width: 10rem;
+}
+
+.result{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 5rem;
+    
+}
+.card{
+   
+    margin: 1rem;
+    text-align: center;
+    padding: 1rem;
+
+}
+.mainContainer{
+    text-align: center;
+    margin: 2rem;
+    
+}
+input{
+    height: 2rem;
+    width: 20rem;
+}
